@@ -1,4 +1,4 @@
-#This project is currently in PROGRESS.
+This project is currently in PROGRESS.
 
 # Phone-in-vicinity (Android)
 Location Tracking and Gcm Example
